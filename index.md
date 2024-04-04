@@ -27,12 +27,21 @@ The following is a more detailed list of potential topic areas:
 
 ## Important Dates
 
-- Paper submission deadline: TBD
-- Paper acceptance notification: TBD
+- Paper submission deadline: May 10, 2024 (AoE)
+- Paper acceptance notification: June 14, 2024
 
 ## Submission Details
 
-TBD
+Submissions must be relevant to one or more of the topic areas listed above, in the following two categories:
+
+- Long papers – up to 8 pages + unlimited references / appendices
+- Short papers - up to 4 pages + unlimited references / appendices
+
+Please format submissions in RLC style (see Author Kit: [overleaf](https://www.overleaf.com/read/xcnztsmtbnxy#62703f), [zip](https://rl-conference.cc/static/rlc_2024_submission_template.zip)).
+
+We will review primarily for topic fit and technical correctness. Some accepted papers will be selected for contributed talks. All accepted papers will present during the poster session.
+
+Submission link: coming soon!
 
 ## Organizing Committee
 
