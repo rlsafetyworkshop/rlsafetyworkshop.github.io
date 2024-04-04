@@ -28,7 +28,7 @@ The following is a more detailed list of potential topic areas:
 ## Important Dates
 
 - Paper submission deadline: May 10, 2024 (AoE)
-- Paper acceptance notification: June 14, 2024
+- Paper acceptance notification: May 23, 2024
 
 ## Submission Details
 
