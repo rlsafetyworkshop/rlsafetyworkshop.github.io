@@ -41,7 +41,7 @@ Please format submissions in RLC style (see Author Kit: [overleaf](https://www.o
 
 We will review primarily for topic fit and technical correctness. Some accepted papers will be selected for contributed talks. All accepted papers will present during the poster session.
 
-Submission link: coming soon!
+Submission link: [click here](https://openreview.net/group?id=rl-conference.cc/RLC/2024/Workshop/RLSW)
 
 ## Organizing Committee
 
