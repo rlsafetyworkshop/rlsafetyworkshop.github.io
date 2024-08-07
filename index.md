@@ -43,6 +43,26 @@ The following is a more detailed list of potential topic areas:
 - Governance/policy/law for RL systems
 - Auditing and deployment safeguards for RL systems
 
+## Accepted Papers
+
+- **A Policy Gradient Primal-Dual Algorithm for Constrained MDPs with Uniform PAC Guarantees** - *Toshinori Kitamura, Tadashi Kozuno, Masahiro Kato, Yuki Ichihara, Soichiro Nishimori, Akiyoshi Sannai, Sho Sonoda, Wataru Kumagai, Yutaka Matsuo*
+- **DECAF: Learning to be Fair in Multi-agent Resource Allocation** - *Ashwin Kumar, William Yeoh*
+- **Prioritizing safety via curriculum learning** - *Cevahir Koprulu, Thiago D. Simão, Nils Jansen, Ufuk Topcu*
+- **Predicting Future Actions of Reinforcement Learning Agents** - *Stephen Chung, Scott Niekum, David Krueger*
+- **Multi-Agent Imitation Learning: Value is Easy, Regret is Hard** - *Jingwu Tang, Gokul Swamy, Fei Fang, Steven Wu*
+- **Novelty Detection in Reinforcement Learning with World Models** - *Geigh Zollicoffer, Kenneth Eaton, Jonathan C Balloch, Julia Kim, Mark Riedl, Robert Wright*
+- **Efficient Inverse Reinforcement Learning without Compounding Errors** - *Nicolas Espinosa Dice, Gokul Swamy, Sanjiban Choudhury, Wen Sun*
+- **ROSARL: Reward-Only Safe Reinforcement Learning** - *Geraud Nangue Tasse, Tamlin Love, Mark Nemecek, Steven James, Benjamin Rosman*
+- **Robust Model-Based Reinforcement Learning with an Adversarial Auxiliary Model** - *Siemen Herremans, Ali Anwar, Siegfried Mercelis*
+- **Simplifying Constraint Inference with Inverse Reinforcement Learning** - *Adriana Hugessen, Harley Wiltzer, Glen Berseth*
+- **Safe and Efficient Offline Reinforcement Learning: The Critic is Critical** - *Adam Jelley, Trevor McInroe, Sam Devlin, Amos Storkey*
+- **Sample Complexity for Obtaining Sub-optimality and Violation bound for Distributionally Robust Constrained MDP** - *Arnob Ghosh*
+- **Pareto-Optimal Learning from Preferences with Hidden Context** - *Ryan Boldi, Li Ding, Lee Spector, Scott Niekum*
+- **Online Statistical Inference of Sample-averaged Q-Learning** - *Saunak Kumar Panda, Tong Li, Yisha Xiang*
+- **Remembering to Be Fair: Non-Markovian Fairness in Sequential Decision Making** - *Parand A. Alamdari, Toryn Q. Klassen, Elliot Creager, Sheila A. McIlraith*
+- **AI Alignment with Changing and Influenceable Reward Functions** - *Micah Carroll, Davis Foote, Anand Siththaranjan, Stuart Russell, Anca Dragan*
+- **Operator Bellman Equations Support Compositional & Verifiable Planning in Hierarchical World-models** - *Tom Ringstrom*
+
 ## Important Dates
 
 - Paper submission deadline: May 24, 2024 (AoE)
