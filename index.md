@@ -46,7 +46,7 @@ The following is a more detailed list of potential topic areas:
 
 - [**A Policy Gradient Primal-Dual Algorithm for Constrained MDPs with Uniform PAC Guarantees**](https://openreview.net/forum?id=EWXKo2fj4h) - *Toshinori Kitamura, Tadashi Kozuno, Masahiro Kato, Yuki Ichihara, Soichiro Nishimori, Akiyoshi Sannai, Sho Sonoda, Wataru Kumagai, Yutaka Matsuo*
 - [**DECAF: Learning to be Fair in Multi-agent Resource Allocation**](https://openreview.net/forum?id=Y3YHGouOjZ) - *Ashwin Kumar, William Yeoh*
-- [**Prioritizing safety via curriculum learning**](https://openreview.net/forum?id=EaaWjhIQwr) - *Cevahir Koprulu, Thiago D. SimÃ£o, Nils Jansen, Ufuk Topcu*
+- [**Prioritizing safety via curriculum learning**](https://openreview.net/forum?id=EaaWjhIQwr) - *Cevahir Koprulu, Thiago D. Simão, Nils Jansen, Ufuk Topcu*
 - [**Predicting Future Actions of Reinforcement Learning Agents**](https://openreview.net/forum?id=SohRnh7M8Q) - *Stephen Chung, Scott Niekum, David Krueger*
 - [**Multi-Agent Imitation Learning: Value is Easy, Regret is Hard**](https://openreview.net/forum?id=jPqDM8jQKk) - *Jingwu Tang, Gokul Swamy, Fei Fang, Steven Wu*
 - [**Novelty Detection in Reinforcement Learning with World Models**](https://openreview.net/forum?id=5KTVUa9upG) - *Geigh Zollicoffer, Kenneth Eaton, Jonathan C Balloch, Julia Kim, Mark Riedl, Robert Wright*
@@ -71,7 +71,7 @@ The following is a more detailed list of potential topic areas:
 
 Submissions must be relevant to one or more of the topic areas listed above, in the following two categories:
 
-- Long papers â up to 8 pages + unlimited references / appendices
+- Long papers - up to 8 pages + unlimited references / appendices
 - Short papers - up to 4 pages + unlimited references / appendices
 
 Please format submissions in RLC style (see Author Kit: [overleaf](https://www.overleaf.com/read/xcnztsmtbnxy#62703f), [zip](https://rl-conference.cc/static/rlc_2024_submission_template.zip)).
