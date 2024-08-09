@@ -4,7 +4,13 @@ layout: default
 
 Workshop at the [Reinforcement Learning Conference 2024](https://rl-conference.cc/index.html) in Amherst, MA.
 
-August 9, 2024, 9am - 4pm
+---
+
+**Date:** August 9, 2024, 9am - 4pm
+
+**Location:** Hadley Room (posters in the Marriott Center)
+
+---
 
 ## Workshop Summary
 
